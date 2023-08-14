@@ -1,4 +1,4 @@
-print(“192111205-M.NithinReddy”)
+print(“192111481-K.HARSHA SAI TEJA”)
 print ("Enter the number of queens")
 N = int(input())
 
